@@ -6,7 +6,8 @@ The Collatz Conjecture is one of the simplest open problems to understand, but t
 
 
 
-# More information:
+
+
 
 # Factorial function
 https://en.wikipedia.org/wiki/Factorial
