@@ -6,11 +6,11 @@ The Collatz Conjecture is one of the simplest open problems to understand, but t
 
 More information:
 
-#Factorial function
+# Factorial function
 https://en.wikipedia.org/wiki/Factorial
 
-#Double Factorial function
+# Double Factorial function
 https://en.wikipedia.org/wiki/Double_factorial
 
-#Gamma function
+# Gamma function
 https://en.wikipedia.org/wiki/Gamma_function
