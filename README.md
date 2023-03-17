@@ -4,7 +4,9 @@ The Collatz Conjecture is one of the simplest open problems to understand, but t
 ![collatz_conjecture_functions](https://user-images.githubusercontent.com/93230178/225809457-9a5f24a1-9a9e-431a-8c70-3d3a4212d2cc.png)
 
 
-More information:
+
+
+# More information:
 
 # Factorial function
 https://en.wikipedia.org/wiki/Factorial
