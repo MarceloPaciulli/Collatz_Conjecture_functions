@@ -18,6 +18,6 @@ https://en.wikipedia.org/wiki/Double_factorial
 ## Gamma function
 https://en.wikipedia.org/wiki/Gamma_function
 
-
+## Graphics
 ![collatz_conjecture](https://github.com/MarceloPaciulli/Collatz_Conjecture_functions/assets/93230178/1b90a819-f1a1-4427-b94e-44303bd9b7c1)
 
